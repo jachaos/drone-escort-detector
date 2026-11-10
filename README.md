@@ -1,7 +1,7 @@
 # Drone Volador — detecting and escorting a drone from another drone
 
 **One small detector, a cheap tracker and strict test discipline.**
-Personal side project, built in under a month (2026). Technical report (27 pages).
+Personal side project. Technical report (27 pages).
 
 > Status: report published. Own footage, training configuration and flight code are not released.
 
